@@ -1,3 +1,3 @@
 # RPi.ImageProcessing-1
 
-It is my first image processing application. My aim is to make a ball-following robot using raspberry pi
+In this stage I stablished a serial interface between my python application and an Arduino board. In needs an additional library- pySerial.
