@@ -1,3 +1,3 @@
 # RPi.ImageProcessing-1
 
-In this stage I stablished a serial interface between my python application and an Arduino board. It needs an additional library- pySerial.
+In this stage I stablished a serial interface between my python application and an Arduino board. It needs an additional library- pySerial. Attach three LEDs in the 2nd, 3rd and 4th pin of the Arduino. They will indicate whether the ball is at the center or left or right side of the window...
